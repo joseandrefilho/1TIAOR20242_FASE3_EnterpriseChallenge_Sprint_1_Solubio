@@ -1,0 +1,82 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="YALfRtdQEuJIhBPXp8D2">
+    <mxGraphModel dx="3781" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="60" width="590" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="aTCGnNnLlOcjSkRDQHrd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Nk4-N8U7g1-p_qx0zFcB-1" target="Nk4-N8U7g1-p_qx0zFcB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-1" value="WhatsApp" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.whatsapp;fillColor=#4FE238;gradientColor=#138709;points=[[0,0,0,0,0],[0,0.23,0,0,0],[0,0.5,0,0,0],[0,0.77,0,0,0],[0,1,0,0,0],[0.25,0,0,0,0],[0.25,1,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[0.75,0,0,0,0],[0.75,1,0,0,0],[1,0,0,0,0],[1,0.23,0,0,0],[1,0.5,0,0,0],[1,0.77,0,0,0],[1,1,0,0,0]];" parent="1" vertex="1">
+          <mxGeometry x="-230" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="Nk4-N8U7g1-p_qx0zFcB-11" target="Nk4-N8U7g1-p_qx0zFcB-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-11" value="Cliente/Prospect" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.user;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="Nk4-N8U7g1-p_qx0zFcB-13" target="Nk4-N8U7g1-p_qx0zFcB-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-13" value="Twilio API para WhatsApp" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgaGVpZ2h0PSI4MDBweCIgd2lkdGg9IjgwMHB4Ij4mI3hhOyAgICA8Zz4mI3hhOyAgICAgICAgPHBhdGggZmlsbD0iI0YxMkU0NSIgZD0iTTEyOCwwIEMxOTguNjU2LDAgMjU2LDU3LjM0NCAyNTYsMTI4IEMyNTYsMTk4LjY1NiAxOTguNjU2LDI1NiAxMjgsMjU2IEM1Ny4zNDQsMjU2IDAsMTk4LjY1NiAwLDEyOCBDMCw1Ny4zNDQgNTcuMzQ0LDAgMTI4LDAgWiBNMTI4LDMzLjc5MiBDNzUuNzc2LDMzLjc5MiAzMy43OTIsNzUuNzc2IDMzLjc5MiwxMjggQzMzLjc5MiwxODAuMjI0IDc1Ljc3NiwyMjIuMjA4IDEyOCwyMjIuMjA4IEMxODAuMjI0LDIyMi4yMDggMjIyLjIwOCwxODAuMjI0IDIyMi4yMDgsMTI4IEMyMjIuMjA4LDc1Ljc3NiAxODAuMjI0LDMzLjc5MiAxMjgsMzMuNzkyIFogTTE1OS43NDQsMTMzLjEyIEMxNzQuNDQ4MDI5LDEzMy4xMiAxODYuMzY4LDE0NS4wMzk5NzEgMTg2LjM2OCwxNTkuNzQ0IEMxODYuMzY4LDE3NC40NDgwMjkgMTc0LjQ0ODAyOSwxODYuMzY4IDE1OS43NDQsMTg2LjM2OCBDMTQ1LjAzOTk3MSwxODYuMzY4IDEzMy4xMiwxNzQuNDQ4MDI5IDEzMy4xMiwxNTkuNzQ0IEMxMzMuMTIsMTQ1LjAzOTk3MSAxNDUuMDM5OTcxLDEzMy4xMiAxNTkuNzQ0LDEzMy4xMiBaIE05Ni4yNTYsMTMzLjEyIEMxMTAuOTYwMDI5LDEzMy4xMiAxMjIuODgsMTQ1LjAzOTk3MSAxMjIuODgsMTU5Ljc0NCBDMTIyLjg4LDE3NC40NDgwMjkgMTEwLjk2MDAyOSwxODYuMzY4IDk2LjI1NiwxODYuMzY4IEM4MS41NTE5NzA4LDE4Ni4zNjggNjkuNjMyLDE3NC40NDgwMjkgNjkuNjMyLDE1OS43NDQgQzY5LjYzMiwxNDUuMDM5OTcxIDgxLjU1MTk3MDgsMTMzLjEyIDk2LjI1NiwxMzMuMTIgWiBNMTU5Ljc0NCw2OS42MzIgQzE3NC40NDgwMjksNjkuNjMyIDE4Ni4zNjgsODEuNTUxOTcwOCAxODYuMzY4LDk2LjI1NiBDMTg2LjM2OCwxMTAuOTYwMDI5IDE3NC40NDgwMjksMTIyLjg4IDE1OS43NDQsMTIyLjg4IEMxNDUuMDM5OTcxLDEyMi44OCAxMzMuMTIsMTEwLjk2MDAyOSAxMzMuMTIsOTYuMjU2IEMxMzMuMTIsODEuNTUxOTcwOCAxNDUuMDM5OTcxLDY5LjYzMiAxNTkuNzQ0LDY5LjYzMiBaIE05Ni4yNTYsNjkuNjMyIEMxMTAuOTYwMDI5LDY5LjYzMiAxMjIuODgsODEuNTUxOTcwOCAxMjIuODgsOTYuMjU2IEMxMjIuODgsMTEwLjk2MDAyOSAxMTAuOTYwMDI5LDEyMi44OCA5Ni4yNTYsMTIyLjg4IEM4MS41NTE5NzA4LDEyMi44OCA2OS42MzIsMTEwLjk2MDAyOSA2OS42MzIsOTYuMjU2IEM2OS42MzIsODEuNTUxOTcwOCA4MS41NTE5NzA4LDY5LjYzMiA5Ni4yNTYsNjkuNjMyIFoiPiYjeGE7JiN4YTs8L3BhdGg+JiN4YTsgICAgPC9nPiYjeGE7PC9zdmc+;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="260" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-15" value="Amazon RDS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.rds;" parent="1" vertex="1">
+          <mxGeometry x="610" y="240" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-20" value="Amazon Bedrock" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#232f3e;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.bedrock;" parent="1" vertex="1">
+          <mxGeometry x="367" y="480" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="Nk4-N8U7g1-p_qx0zFcB-21" target="Nk4-N8U7g1-p_qx0zFcB-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-21" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_2;fillColor=#D2D3D3;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="263" width="79.5" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="Nk4-N8U7g1-p_qx0zFcB-28" target="Nk4-N8U7g1-p_qx0zFcB-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-28" value="Amazon API Gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.api_gateway;" parent="1" vertex="1">
+          <mxGeometry x="200" y="235" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="Nk4-N8U7g1-p_qx0zFcB-31" target="Nk4-N8U7g1-p_qx0zFcB-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="Nk4-N8U7g1-p_qx0zFcB-31" target="Nk4-N8U7g1-p_qx0zFcB-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-31" value="AWS Lambda" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" parent="1" vertex="1">
+          <mxGeometry x="366" y="240" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-42" value="&lt;p&gt;Usuário envia mensagem via &lt;b&gt;WhatsApp&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-43" value="&lt;p&gt;O Twilio encaminha a mensagem para o &lt;strong&gt;API Gateway&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-44" value="&lt;p&gt;API Gateway direciona a mensagem para a função &lt;b&gt;Lambda&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-46" value="&lt;div&gt;A função Lambda recebe a mensagem e processa a lógica do chatbot.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;A Lambda também chama o &lt;b&gt;Amazon Bedrock&lt;/b&gt; para interpretar e gerar respostas baseadas em NLP.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A Lambda também chama o&amp;nbsp;&lt;b&gt;Amazon RDS&amp;nbsp;&lt;/b&gt;para consultas e armazenamento de Dados.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="291" y="80" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-49" value="&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;WhatsApp&amp;nbsp;&lt;/span&gt;envia mensagem para o &lt;b&gt;Twilio API&lt;/b&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-50" value="&lt;p&gt;Análise de Intenções e Geração de Respostas&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-51" value="&lt;p&gt;Consultas e Armazenamento de Dados&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nk4-N8U7g1-p_qx0zFcB-52" value="&lt;b&gt;AWS Cloud&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
